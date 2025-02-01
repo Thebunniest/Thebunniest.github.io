@@ -1,13 +1,4 @@
-- National Scholarship of Graduate Student, 2024.
-
-- First-prize Scholarship of CUMT, 2024.
-
-- First-prize Scholarship of CUMT, 2023.
-
-- Freshman Scholarship of CUMT, 2022.
-
-- Excellent Graduation Project of Jiangsu Province, 2022.
-
-- First-prize Enterprise Scholarship of CUMT, 2020.
-
-- First-prize Scholarship of CUMT, 2019.
+* The Scholarship of Shitsan Pai Talent Program in Life Sciences, 2022
+* The Scholarship of Hua Xia Talent Program in Computer Science and Technology, 2023
+* The Jianghuai NIO Scholarship, 2023
+* The Scholarship of Hua Xia Talent Program in Computer Science and Technology, 2024

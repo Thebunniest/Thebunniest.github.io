@@ -1,16 +1,19 @@
 
-
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+I am currently pursuing a Bachelor's Degree in Computer Science, with a minor in Biological Science, at the University of Science and Technology of China (USTC). 
 
 #### Email
-sli[at]cumt.edu.cn
+
+jinbowang[at]mail.ustc.edu.cn\
+2590534985[at]qq.com
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+
+B.S., Biological Science, University of Science and Technology of China (USTC), 2022—2023.\
+B.E., Computer Science and Technology, USTC, 2023—2027 (expected).\
+B.S., Biological Science (minor), USTC, 2023—2027 (expected).
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
 
+I am interested in the intersection of computer science and biology, particularly, in the fields of bioinformatics, computational biology. Currently, I am working on the application of  machine learning and deep learning in biological data analysis, such as the prediction of protein-protein interactions (e.g. antigen-antibody interactions) and the processing of biological or medical images (e.g. cell segmentation).
+
+Now I am a member of the [QuLab](https://qulab.ustc.edu.cn/) in USTC, led by Prof. [Kun Qu](https://scholar.google.com/citations?user=2CdOi4EAAAAJ).
