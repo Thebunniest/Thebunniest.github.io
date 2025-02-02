@@ -1,7 +1,7 @@
 
 #### About Me
 
-I am a third-year undergraduate student at the [University of Science and Technology of China](https://www.ustc.edu.cn/) pursuing a B.S. in **Computer Science and Technology** with a minor in **Biological Science**, and also a member of Hua Xia Talent Program in Computer Science and Technology at USTC.
+I am a third-year undergraduate student at the [University of Science and Technology of China](https://www.ustc.edu.cn/) pursuing a B.S. in **Computer Science and Technology** with a minor in **Biological Science**, and a member of Hua Xia Talent Program in Computer Science and Technology at USTC.
 
 #### E-mail and Contact
 
@@ -13,7 +13,7 @@ WeChat: a2590534985
 
 B.S., 🧬Biological Science, USTC, 2022—2023.\
 B.E., 💻Computer Science and Technology, USTC, 2023—2027 (expected).\
-B.S., Biological Science (minor), USTC, 2023—2027 (expected).
+B.S., 🧬Biological Science (minor), USTC, 2023—2027 (expected).
 
 #### Research Interests
 
