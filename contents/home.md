@@ -12,7 +12,7 @@ B.S., Biological Science (minor), USTC, 2023—2027 (expected).
 
 My research interests lie in the intersection of computer science and biology, particularly in the fields of bioinformatics and computational biology.
 
-Currently, I am working on the application of technologies like machine learning and deep learning in biological data analysis, such as the prediction of antigen-antibody interactions (led by Prof. [Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ)) and the processing of biological or medical images (cell segmentation, led by Prof. [Kun Qu](https://scholar.google.com/citations?user=2CdOi4EAAAAJ)).
+Currently, I am working on the application of technologies like machine learning and deep learning in biological data analysis, such as the prediction of antigen-antibody interactions (led by Prof. [Fuli Feng](https://scholar.google.com/citations?user=QePM4u8AAAAJ)), and the processing of biological or medical images (cell segmentation, led by Prof. [Kun Qu](https://scholar.google.com/citations?user=2CdOi4EAAAAJ)).
 
 #### Funny Facts
 
