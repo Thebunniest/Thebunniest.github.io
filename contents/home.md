@@ -16,5 +16,5 @@ Currently, I am working on the application of technologies like machine learning
 
 #### Funny Facts
 
-* As you can tell from this website, I am a big fan of rabbits (I had one when I was a child).🐰🐰🐰\
-* I can play the sorpano saxophone (for 6 years) and the alto saxophone (for 8 years), and I am a big fan of Dave Koz and Michael Lington.🎷😎\
+* As you can tell from this website, I am a big fan of rabbits (I had one when I was a child).🐰🐰🐰
+* I can play the sorpano saxophone (for 6 years) and the alto saxophone (for 8 years), and I am a big fan of Dave Koz and Michael Lington.🎷😎
