@@ -1,12 +1,14 @@
 #### About Me
 
-I am an undergraduate student at the [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC) pursuing a B.E. in 💻**Computer Science and Technology** with a minor in 🧬**Biological Science**, and a member of Hua Xia Talent Program in Computer Science and Technology at USTC.
+I am an undergraduate student at the [University of Science and Technology of China](https://www.ustc.edu.cn/) (USTC) pursuing a B.E. in 💻**Computer Science and Technology** with a minor in 🧬**Biological Science**, and a member of USTC's Hua Xia Talent Program in Computer Science and Technology.
 
 #### Education
 
-B.S., Biological Science, USTC, 2022—2023.\
-B.E., Computer Science and Technology, USTC, 2023—2027 (expected).\
-B.S., Biological Science (minor), USTC, 2023—2027 (expected).
+* B.S., Biological Science, USTC, 2022—2023.
+  * Shitsan Pai Talent Program in Life Sciences
+* B.E., Computer Science and Technology, USTC, 2023—2027 (expected).
+  * Hua Xia Talent Program in Computer Science and Technology
+* B.S., Biological Science (minor), USTC, 2023—2027 (expected).
 
 #### Research Interests
 
